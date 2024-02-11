@@ -131,7 +131,7 @@
     "tslint": "~6.1.3",
     "typescript": "~5.1.6",
     "web-animations-js": "^2.3.2",
-    "yarn": "^1.22.19",
+    "yarn": "^1.22.21",
     "zone.js": "~0.13.1"
   },
   "dependencies": {
